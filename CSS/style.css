@@ -1,3 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
 .parallax-header{
     background: #000;
      background: /*linear-gradient(
@@ -16,19 +22,40 @@
 }
 .content .right{
     align-items: center;
-    height: 200px;
-    width:  300px; 
-    padding: 20px 20px;
+    height: 500px;
+    width:  450px; 
+    padding: 70px;
     padding: 0px;
+    margin-top: 100px;
+    margin-left: 0px;
 }
 
 .content{
-    margin-top: -80px;
-    box-shadow: 0 0 20px -6px rgba(0,0,0,0.2);
+    margin-top: 1000px;
+    box-shadow: 50px 10px 50px 10px rgba(0,0,0,0);
     background-color: #fff;
-
 }
 
 .content .left{
     padding-top: 20px;
+}
+
+.content p{
+    margin-left: 10px;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 4rem;
+}
+
+.navbar{
+    background: fixed;
+}
+
+.container__progress {
+    align-items: left;
+    display: flex;
+    justify-content: center;
+    background-color: #357edd;
+    color: #fff;
+    border-radius: 9999px;   
 }
