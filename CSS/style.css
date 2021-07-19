@@ -119,8 +119,16 @@
         }
          */
 
-.home .container-lg .home-img{
-    border-radius: 50px;
-        /* height: 50vh;
-    width: 750vh; */
+.home .container-lg .design{
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+.home .container-lg{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.home .container-lg .fw-bold{
+    font-family: 'STIX Two Math', serif;
+}
+.navbar .container-fluid .nav-link{
+    font-family: 'Uchen', serif;
 }
