@@ -44,7 +44,7 @@
     margin-left: 10px;
     font-size: 20px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    letter-spacing: 4rem;
+   
 }
 
 .navbar{
@@ -58,4 +58,69 @@
     background-color: #357edd;
     color: #fff;
     border-radius: 9999px;   
+}
+
+/* .buton {
+    position: relative;
+    padding: 10px 30px;
+    margin: 0px 15px;
+    font-size:20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    transition: 0.5s;
+    padding: 10px;
+    font-family: 'Varela Round', sans-serif;
+    
+    }
+    #neon:before {
+        content:'';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width:60px;
+        height: 30px;
+        border-top:2px solid #FF0000;
+        border-left: 2px solid #FF0000;
+        transition: 0.5s;
+        
+        }
+        #neon:hover::before{
+        width: 98%;
+        height: 87%;
+        border-top:2px solid #7FF000;
+        border-left:2px solid #7FF000;
+        
+        }
+        #neon:hover{
+        background: #7FF000;
+        color: black;
+        box-shadow: 0 0 50px #7FF000;
+        transition-delay: 0.5%;
+        font-weight: 300;
+        }
+        #neon:after{
+        content:'';
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width:60px;
+        height: 30px;
+        border-bottom:2px solid #FF0000;
+        border-right: 2px solid #FF0000;
+        transition: 0.5s;
+        }
+        #neon:hover::after{
+        width: 98%;
+        height: 89%;
+        border-bottom:2px solid #7FF000;
+        border-right:2px solid #7FF000;
+        }
+         */
+
+.home .container-lg .home-img{
+    border-radius: 50px;
+        /* height: 50vh;
+    width: 750vh; */
 }
