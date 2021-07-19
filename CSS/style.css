@@ -132,3 +132,32 @@
 .navbar .container-fluid .nav-link{
     font-family: 'Uchen', serif;
 }
+
+.hy .MySkills{
+    font-family: 'Uchen', serif;
+}
+
+ .testimonials .container-sm-6 .row .col-lg-8 .section-tit h2{
+    font-family: 'Uchen', serif;
+}
+
+.contact h2{
+    font-family: 'Uchen', serif;
+} 
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+  }
+
+  div.transbox h1{
+    margin: 5%;
+    font-weight: bold;
+    color: #000000;
+    font-family: 'Yatra One', cursive;
+  }
+  div.transbox pre{
+    font-family: 'Yatra One', cursive;
+  }
