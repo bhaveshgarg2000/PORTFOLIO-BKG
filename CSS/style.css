@@ -161,3 +161,10 @@ div.transbox {
   div.transbox pre{
     font-family: 'Yatra One', cursive;
   }
+  .testimonials .container-sm-6 .row .col-lg-8 .section-tit h2{
+    font-family: 'Uchen', serif;
+  }
+  .hyi{
+    background-image: url("/assets/skiils.jpg");
+ }
+ 
